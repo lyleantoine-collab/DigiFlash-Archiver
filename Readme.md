@@ -12,12 +12,12 @@ No cloud.
 No AI hype.
 Just Dene grit. 
 
-## Quick Start bash 
+## Quick Start 
 
-# 1. Clone git clone https://github.com/lyleantoine-collab/DigiFlash-Archiver.git cd DigiFlash-Archiver 
-# 2. Install pip install opencv-python pytesseract pillow scikit-image 
-# 3. Paper mode python scripts/digi_flash.py --folder scans/ --mode paper 
-# 4. Microfiche mode python scripts/digi_flash.py --folder fiche_tray/ --mode film 
+1. Clone git clone https://github.com/lyleantoine-collab/DigiFlash-Archiver.git cd DigiFlash-Archiver 
+2. Install pip install opencv-python pytesseract pillow scikit-image 
+3. Paper mode python scripts/digi_flash.py --folder scans/ --mode paper 
+4. Microfiche mode python scripts/digi_flash.py --folder fiche_tray/ --mode film 
 
 ## Microfiche Mode 
 
