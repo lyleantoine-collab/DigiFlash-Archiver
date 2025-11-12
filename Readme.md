@@ -30,3 +30,8 @@ pip install -r requirements.txt
 mkdir -p scans
 # Drop your images in scans/
 python scripts/godzilla.py
+
+# ArcheoGodzilla
+Made by Lyle for laughs and truth.  
+Use it, break it, weaponize it.  
+No paywalls. Fight the power. 🦖⚡
